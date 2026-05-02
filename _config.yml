@@ -1,5 +1,5 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: Tannu626/profile
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
@@ -9,50 +9,18 @@ version: 2
 name: Tannu
 title: Quality Engineer
 email: tannugaur994@gmail.com
-# email_title: Email (Email title override)
-# phone: Your phone number (optional)
-# phone_title: Phone (Phone title override)
-# website: Your website (eg. https://google.com)(optional)
-# website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-# twitter_username: jekyllrb
-github_username:  Tannu626
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jekyll
+github_username: Tannu626
 linkedin_username: tannu-01ba092a6
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: jekyll
-# orcid_username: 0000-0000-0000-0000
-# googlescholar_username: D847cGsAAAAJ
-
-# Additional icon links
-# additional_links:
-# - title: Link name
-  # icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  # url: Link url (eg. https://google.com)
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | 
-  I've approx. 5 years' experience in Software Quality, where I've balanced hands-on manual testing with a strong focus on automation.[cite: 1] I'm ISTQB certified and particularly proud of my work in my last role, where I helped reduce our production error rate by 30%.[cite: 1] Beyond functional testing, I have experience in performance testing and a solid understanding of TDD/BDD practices.[cite: 1] I'm a firm believer in the 'learning by doing' mindset and am always looking for ways to apply new technologies to improve product quality.[cite: 1]
+  I've approx. 5 years' experience in Software Quality, where I've balanced hands-on manual testing with a strong focus on automation. I'm ISTQB certified and particularly proud of my work in my last role, where I helped reduce our production error rate by 30%. Beyond functional testing, I have experience in performance testing and a solid understanding of TDD/BDD practices. I'm a firm believer in the 'learning by doing' mindset and am always looking for ways to apply new technologies to improve product quality.
 
 content:
   - title: Projects 
@@ -60,26 +28,26 @@ content:
     content:
       - layout: left
         border: weak  
-        title: iProject - Client: TAWAL (Saudi Arabia)
+        title: "iProject - Client: TAWAL (Saudi Arabia)"
         quote: >
-          Took ownership of the full QA cycle, from functional and integration testing to final regression.[cite: 1]
+          Took ownership of the full QA cycle, from functional and integration testing to final regression.
         description: | 
-          By working closely with stakeholders to define the test scope and cleaning up our defect triage process, we hit our release dates and saw a 30% drop in issues after the product went live.[cite: 1]
+          By working closely with stakeholders to define the test scope and cleaning up our defect triage process, we hit our release dates and saw a 30% drop in issues after the product went live.
           
       - layout: left
         border: weak
-        title: Asset - Client: MIDC (Philippines) & MAST (South Africa)
+        title: "Asset - Client: MIDC (Philippines) & MAST (South Africa)"
         quote: >
-          Focused on moving high-priority manual tests into a maintainable automation suite.[cite: 1]
+          Focused on moving high-priority manual tests into a maintainable automation suite.
         description: | 
-          I also mentored two junior QAs during this project, which helped us expand our regression coverage and get through release validations much faster.[cite: 1]
+          I also mentored two junior QAs during this project, which helped us expand our regression coverage and get through release validations much faster.
           
       - layout: left
-        title: iLease & ONM - Client: MIDC (Philippines) & TAWAL (Saudi Arabia)
+        title: "iLease & ONM - Client: MIDC (Philippines) & TAWAL (Saudi Arabia)"
         quote: >
-          Optimized Selenium-TestNG & Playwright-Typescript suites for greater stability.[cite: 1]
+          Optimized Selenium-TestNG & Playwright-Typescript suites for greater stability.
         description: | 
-          These improvements helped us cut escaped defects by 20% and kept our sprint releases moving on schedule.[cite: 1]
+          These improvements helped us cut escaped defects by 20% and kept our sprint releases moving on schedule.
 
   - title: Experience
     layout: list
@@ -89,14 +57,14 @@ content:
         sub_title: Quality Engineer
         caption: April 2021 - Nov 2025
         description: | 
-          - Managed QA across multiple projects simultaneously, working closely with different teams to hit deadlines without letting quality or compliance slip.[cite: 1]
-          - Built and scaled a Selenium-TestNG & Playwright automation suite that covered our most critical test scenarios, which cut down manual regression time and helped the team close sprints much faster.[cite: 1]
-          - Set up CI/CD pipelines in Azure DevOps to automate builds and deployments—complete with Slack notifications—aligned with Agile and DevOps best practices.[cite: 1]
-          - Reviewed requirements and spoke up about quality risks or release readiness; I made sure both business and tech stakeholders were on the same page regarding project health.[cite: 1]
-          - Cleaned up our QA workflow in JIRA by setting up defect triage and real-time dashboards, which gave our three cross-functional squads much better visibility.[cite: 1]
-          - Took the lead on SIT, UAT, and regression cycles, handling everything from environment setups and sequencing to keeping stakeholders engaged throughout the process.[cite: 1]
-          - Mentored and onboarded two new QA engineers, helping them get up to speed quickly and encouraging a culture of sharing knowledge within the team.[cite: 1]
-          - Delivered high-quality mobile applications through detailed functional and performance testing on Android and iOS devices.[cite: 1]
+          - Managed QA across multiple projects simultaneously, working closely with different teams to hit deadlines without letting quality or compliance slip.
+          - Built and scaled a Selenium-TestNG & Playwright automation suite that covered our most critical test scenarios, which cut down manual regression time and helped the team close sprints much faster.
+          - Set up CI/CD pipelines in Azure DevOps to automate builds and deployments—complete with Slack notifications—aligned with Agile and DevOps best practices.
+          - Reviewed requirements and spoke up about quality risks or release readiness; I made sure both business and tech stakeholders were on the same page regarding project health.
+          - Cleaned up our QA workflow in JIRA by setting up defect triage and real-time dashboards, which gave our three cross-functional squads much better visibility.
+          - Took the lead on SIT, UAT, and regression cycles, handling everything from environment setups and sequencing to keeping stakeholders engaged throughout the process.
+          - Mentored and onboarded two new QA engineers, helping them get up to speed quickly and encouraging a culture of sharing knowledge within the team.
+          - Delivered high-quality mobile applications through detailed functional and performance testing on Android and iOS devices.
 
   - title: Education
     layout: list
@@ -106,27 +74,23 @@ content:
         sub_title: Bachelor's degree in Computer Science
         caption: July 2017 - April 2021
         description: | 
-          Completed a Bachelor's degree in Computer Science.[cite: 1]
+          Completed a Bachelor's degree in Computer Science.
 
   - title: Skills & Certifications
     layout: text
     content: | 
       **Certifications**
-      - ISTQB Foundation Level[cite: 1]
+      - ISTQB Foundation Level
       
       **Programming & Tools**
-      - **Proficient:** JMeter, Playwright, Selenium, TestNG, Java, Git, Postman, JIRA, Rest APIs, SQL, PostgreSQL.[cite: 1]
-      - **Familiar:** Maven, Jenkins, Azure CI/CD, Grafana, Docker, JavaScript, Typescript, Agile/Scrum/DevOps methodologies, Browserstack.[cite: 1]
+      - **Proficient:** JMeter, Playwright, Selenium, TestNG, Java, Git, Postman, JIRA, Rest APIs, SQL, PostgreSQL.
+      - **Familiar:** Maven, Jenkins, Azure CI/CD, Grafana, Docker, JavaScript, Typescript, Agile/Scrum/DevOps methodologies, Browserstack.
       
       **Core Competencies**
-      Manual Testing | Automation Testing | Mobile Testing | API & Functional Testing | Web Testing | Test Case Design | Cross-Browser & Cross-Platform Testing | UI/UX & UAT | Defect Triage & Root Cause Analysis | SDLC & STLC | Scrum & Kanban | BDD & TDD | Problem Solving | Communication & Stakeholder Management | Adaptability | Mentorship & Continuous Learning.[cite: 1]
+      Manual Testing | Automation Testing | Mobile Testing | API & Functional Testing | Web Testing | Test Case Design | Cross-Browser & Cross-Platform Testing | UI/UX & UAT | Defect Triage & Root Cause Analysis | SDLC & STLC | Scrum & Kanban | BDD & TDD | Problem Solving | Communication & Stakeholder Management | Adaptability | Mentorship & Continuous Learning.
 
 # Footer
 footer_show_references: true
-
-# Build settings
-# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
-# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 
 sass:
   sass_dir: _sass
