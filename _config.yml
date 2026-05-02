@@ -36,7 +36,7 @@ content:
           
       - layout: left
         border: weak
-        title: "Asset - Client: MIDC (Philippines) & MAST (South Africa)"
+        title: "iAsset - Client: MIDC (Philippines) & MAST (South Africa)"
         quote: >
           Focused on moving high-priority manual tests into a maintainable automation suite.
         description: | 
