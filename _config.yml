@@ -17,6 +17,15 @@ darkmode: false
 github_username: Tannu626
 linkedin_username: tannu-01ba092a6
 
+
+
+#Additional Links, icon: https://fontawesome.com/icons?d=gallery&s=brands&m=free
+additional_links:
+- title: Sample Bug Report
+  icon: fab fa-solid fa-table
+  url: https://docs.google.com/spreadsheets/d/1TXv6Zr5sNJAJPPiCCpTTcsortpt__BfNqD1liS9DtkQ/edit?gid=26835846#gid=26835846
+
+
 # About Section
 about_profile_image: images/profile.jpg
 about_content: | 
