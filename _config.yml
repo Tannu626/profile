@@ -69,8 +69,7 @@ content:
           - Cross-Border Web & API Testing: Collaborated with UK-based startups via Upwork to deliver comprehensive API/SDK and web application testing, ensuring a bug-free launch.
           - QA Strategy & Architecture: Authored and executed robust regression test suites tailored for early-stage startups, establishing fundamental quality strategies to accelerate release cycles 
           - End-to-End Payment Testing: Partnered with crowdsourced platforms (Testbirds/uTest/testerwork) to validate SaaS web and mobile applications, conducting end-to-end payment terminal testing with local Dutch banks to guarantee seamless transaction flows.
-          
-      - layout: right
+  
         title: Infozech, New Delhi, India
         sub_title: Quality Engineer
         caption: April 2021 - Nov 2025
